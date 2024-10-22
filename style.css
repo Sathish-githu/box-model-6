@@ -1,0 +1,47 @@
+.container{
+    height: 500px;
+    width: 500px;
+    border: 2px solid;
+    border-radius: 50px;
+}
+.header{
+    height: 100px;
+    margin: 20px;
+    border: 2px solid;
+
+}
+.main{
+    height: 250px;
+    margin: 20px;
+
+}
+.circle{
+    height: 130px;
+    width: 130px;
+    border: 2px solid;
+    border-radius: 65px;
+   margin-left: 150px;
+   margin-bottom: 10px;
+}
+.item{
+    height: 30px;
+    width: 200px;
+    border: 2px solid;
+    margin-left: 110px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.item-1{
+    height: 30px;
+    margin: 10px;
+    border: 2px solid;
+}
+.footer{
+    height: 30px;
+    margin: 10px;
+    border: 2px solid;
+    
+
+
+}
